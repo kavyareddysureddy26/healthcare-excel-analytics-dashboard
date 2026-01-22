@@ -10,4 +10,10 @@ The dataset is synthetic and includes:
 - Procedure records
 - Payer and insurance coverage data
 
+The dataset includes the following core tables:
+- Patients
+- Encounters
+- Procedures
+- Payers
+
 The data was cleaned and transformed in Excel before analysis.
