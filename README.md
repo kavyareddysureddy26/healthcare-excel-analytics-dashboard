@@ -40,3 +40,10 @@ Synthetic healthcare dataset containing information on patients, encounters, pro
 ## Deliverables
 - Interactive Excel dashboard
 - KPI-driven executive summary
+
+## How to Use This Project
+1. Download the Excel file from the `dashboard` folder
+2. Open `PROJECT.xlsx`
+3. Use slicers to filter by City and Encounter Type
+4. Review KPIs and charts for insights
+
