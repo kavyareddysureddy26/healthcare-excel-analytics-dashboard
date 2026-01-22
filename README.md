@@ -41,6 +41,14 @@ Synthetic healthcare dataset containing information on patients, encounters, pro
 - Interactive Excel dashboard
 - KPI-driven executive summary
 
+## Skills Demonstrated
+- Data cleaning and transformation
+- Relational data understanding
+- PivotTables & PivotCharts
+- KPI creation
+- Dashboard design
+- Business insight generation
+
 ## How to Use This Project
 1. Download the Excel file from the `dashboard` folder
 2. Open `PROJECT.xlsx`
