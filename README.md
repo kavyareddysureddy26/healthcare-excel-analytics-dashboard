@@ -48,6 +48,7 @@ Synthetic healthcare dataset containing information on patients, encounters, pro
 - KPI creation
 - Dashboard design
 - Business insight generation
+- Designed an executive-level dashboard for non-technical stakeholders.
 
 ## How to Use This Project
 1. Download the Excel file from the `dashboard` folder
