@@ -5,7 +5,7 @@ Excel dashboard and visual outputs.
 This folder contains the Excel dashboard created as part of the Healthcare Claims & Cost Analysis project.
 
 ### File Included
-- In PROJECT.xlsx -> Healthcare_Claims_Dashboard.xlsx
+- PROJECT.xlsx (contains the Healthcare Claims Dashboard)
 
 ### Dashboard Features
 - Executive-level KPI summary
